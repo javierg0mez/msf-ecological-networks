@@ -50,9 +50,9 @@ For each case, the MSF Λ(r) is computed as a function of the normalized couplin
 ---
 
 ## How to use
-1. Open any notebook in `code/`
-2. Run the notebook to reproduce the MSF computation
-3. Corresponding data and figures are in the `data/` and `figures/` folders
+1. Open the desired notebook.
+2. Run all cells.
+3. Inspect output in `data/` and `figures/`.
 
 ---
 
