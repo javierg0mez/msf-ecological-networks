@@ -9,7 +9,7 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 ## Folder structure
 - `code/` — Jupyter notebooks implementing the HP dynamics, MSF computation and Lyapunov exponent estimation for each migration scheme  
 - `data/` — numerical files containing the computed values of \(r\) and \(\Lambda(r)\)  
-- `plots/` — resulting MSF curves and figures (PDF format)
+- `figures/` — resulting MSF curves and figures (PDF format)
 
 ---
 
@@ -41,24 +41,23 @@ For each case, the MSF \(\Lambda(r)\) is computed as a function of the normalize
 ---
 
 ## Requirements
-- Python
+- Python ≥ 3.11
 - NumPy
 - SciPy
 - Matplotlib
 - Jupyter Notebook
-- etc
 
 ---
 
 ## How to use
-1. Open any notebook in `HP_codes/`
+1. Open any notebook in `code/`
 2. Run the notebook to reproduce the MSF computation
-3. Corresponding data and figures are in the `HP_data/` and `HP_plots/` folders
+3. Corresponding data and figures are in the `data/` and `figures/` folders
 
 ---
 
 ## Status
-This is **work in progress** and corresponds to the *pairwise diffusive coupling phase* of the project.  
+This is **work in progress** and corresponds to the *pairwise diffusive coupling stage* of the project.  
 Higher-order interactions and nonlinear ecological couplings will be explored in the next stages.
 
 ---
