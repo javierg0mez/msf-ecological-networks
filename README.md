@@ -7,9 +7,9 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 ---
 
 ## Folder structure
-- `code/` -- notebooks to compute MSF and generate .txt data
-- `data/` -- numerical output files (\(r\) vs \(\Lambda(r)\))
-- `figures/` -- PDF plots produced by the plotter notebook
+- `code/` → notebooks to compute MSF and generate .txt data
+- `data/` → numerical output files (\(r\) vs \(\Lambda(r)\))
+- `figures/` → PDF plots produced by the plotter notebook
 
 ---
 
@@ -31,7 +31,7 @@ For each case, the MSF \(\Lambda(r)\) is computed as a function of the normalize
 ---
 
 ## Numerical methodology (very short summary)
-- HP system integrated via 4th-order Runge–Kutta  
+- HP system integrated via 4th-order Runge-Kutta  
 - Time step: Δt = 10⁻³  
 - Integration time: 0 ≤ t ≤ 10³  
 - Largest transverse Lyapunov exponent computed from the variational equation  
