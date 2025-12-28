@@ -8,7 +8,7 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 
 ## Folder structure
 - `code/` → notebooks to compute MSF and generate .txt data
-- `data/` → numerical output files (\(r\) vs \(\Lambda(r)\))
+- `data/` → numerical output files (r vs \Lambda(r))
 - `figures/` → PDF plots produced by the plotter notebook
 
 ---
