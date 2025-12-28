@@ -8,7 +8,7 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 
 ## Folder structure
 - `code/` → notebooks to compute MSF and generate .txt data
-- `data/` → numerical output files (r vs \Lambda(r))
+- `data/` → numerical output files (r vs Λ(r))
 - `figures/` → PDF plots produced by the plotter notebook
 
 ---
@@ -16,17 +16,17 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 ## Migration schemes considered
 We analyze:
 - **Single-species migration**
-  - \(x\) (basal resource)
-  - \(y\) (intermediate predator)
-  - \(z\) (top predator)
+  - x (basal resource)
+  - y (intermediate predator)
+  - z (top predator)
 
 - **Pairwise combinations**
-  - \(xy\), \(xz\), \(yz\)
+  - xy, xz, yz
 
 - **Fully coupled migration**
-  - \(xyz\)
+  - xyz
 
-For each case, the MSF \(\Lambda(r)\) is computed as a function of the normalized coupling parameter \(r\), and the synchronization stability regions are identified from the sign of \(\Lambda(r)\).
+For each case, the MSF Λ(r) is computed as a function of the normalized coupling parameter r, and the synchronization stability regions are identified from the sign of Λ(r).
 
 ---
 
