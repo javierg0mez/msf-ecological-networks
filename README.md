@@ -8,7 +8,7 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 
 ## Folder structure
 - `code/` → notebooks to compute MSF and generate .txt data
-- `data/` → numerical output files (r vs Λ(r))
+- `data/` → numerical output files, r vs Λ(r)
 - `figures/` → PDF plots produced by the plotter notebook
 
 ---
@@ -16,9 +16,9 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 ## Migration schemes considered
 We analyze:
 - **Single-species migration**
-  - x (basal resource)
-  - y (intermediate predator)
-  - z (top predator)
+  - x → basal resource
+  - y → intermediate predator
+  - z → top predator
 
 - **Pairwise combinations**
   - xy, xz, yz
