@@ -7,9 +7,9 @@ The simulations correspond to the preliminary stage of my PhD research, where th
 ---
 
 ## Folder structure
-- `HP_codes/` — Jupyter notebooks implementing the HP dynamics, MSF computation and Lyapunov exponent estimation for each migration scheme  
-- `HP_data/` — numerical files containing the computed values of \(r\) and \(\Lambda(r)\)  
-- `HP_plots/` — resulting MSF curves and figures (PDF format)
+- `code/` — Jupyter notebooks implementing the HP dynamics, MSF computation and Lyapunov exponent estimation for each migration scheme  
+- `data/` — numerical files containing the computed values of \(r\) and \(\Lambda(r)\)  
+- `plots/` — resulting MSF curves and figures (PDF format)
 
 ---
 
